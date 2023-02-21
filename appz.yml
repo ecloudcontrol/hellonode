@@ -1,7 +1,7 @@
 app:
     name: Hello Node
     code: hellonode
-    notify: appzdev@cloudbourne.co
+    notify: nmeeran@ecloudcontrol.com
 
 build:
     version: 0.1
